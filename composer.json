@@ -1,11 +1,15 @@
 {
-    "name": "kirkbushell/eloquence",
+    "name": "rdallimore/eloquence",
     "description": "A set of extensions adding additional functionality and consistency to Laravel's awesome Eloquent library.",
     "keywords": ["laravel", "eloquent", "camelcase", "camel", "case", "snake_case", "snake"],
     "authors": [
         {
             "name": "Kirk Bushell",
             "email": "torm3nt@gmail.com"
+        },
+        {
+            "name": "Richard Dallimore",
+            "email": "richard@dallimore.eu"
         }
     ],
     "require": {
